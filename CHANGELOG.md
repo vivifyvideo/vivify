@@ -1,12 +1,11 @@
 # Changelog
 
-Public release notes for Vivify will be summarized here when updates are useful for users to track.
-
 ## 2026-05-30
 
-- Created the official Vivify public GitHub repository.
-- Added public channels for bug reports, feature requests, roadmap notes, security reporting, and support guidance.
+- Reworked the public repository documentation around Vivify's actual product scope.
+- Updated roadmap, support, security, and contribution guidance for vivify.video.
+- Clarified that this repository is a public feedback and product-information home, not the private production source tree.
 
-## Release Note Policy
+## 2026-05-29
 
-This changelog focuses on user-visible product updates. Internal refactors, provider experiments, infrastructure changes, and private operational changes may not be listed.
+- Created the official public repository structure.

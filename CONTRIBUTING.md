@@ -1,35 +1,28 @@
 # Contributing
 
-Thanks for helping improve Vivify's public feedback and documentation.
+Thanks for helping improve Vivify. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [vivify.video](https://vivify.video).
 
-## Ways To Contribute
+## Good Contributions
 
-- Report reproducible product bugs
-- Suggest improvements to creator workflows
-- Request documentation for common use cases
-- Share clear examples of confusing behavior
-- Comment on roadmap items with real workflow context
+- Generator flow problems around uploads, references, model selection, credit display, or history
+- Model-comparison clarity issues for duration, audio, quality, or supported inputs
+- Prompt-template or showcase feedback that helps creators start faster
+- Pricing, billing, credit-pack, or account-flow issues from the public product
 
-## Issue Quality
+## How To File Feedback
 
-Good issues include:
+- Search existing issues before opening a new one.
+- Use a clear title that names the affected page or workflow.
+- Include steps to reproduce, expected behavior, actual behavior, and any safe sample input.
+- Keep screenshots and recordings free of private account, payment, uploaded-media, or personal data.
 
-- A short, specific title
-- The exact workflow or page involved
-- Steps to reproduce, when applicable
-- Expected result
-- Actual result
-- Browser, device, and rough time of the issue
+## Product Boundaries
+
+- Video generation remains the primary product story.
+- Image generation is described as part of the creative pipeline, not a separate generic hub.
+- Credit and capability claims should stay tied to the live product state.
+- This repository is for public product feedback, not private production source code.
 
 ## Pull Requests
 
-This repository is for public documentation and feedback. Pull requests may be accepted for documentation fixes, templates, and public repository maintenance.
-
-Pull requests that attempt to add application source code, copied product implementation, credentials, or private configuration will be closed.
-
-## Content Guidelines
-
-- Keep feedback specific and respectful.
-- Do not post private data or generated assets without permission.
-- Do not include secrets, tokens, cookies, or payment information.
-- Use public issues only for information that can safely remain public.
+This repository does not accept pull requests for the private production application. Documentation-only pull requests may be considered when they improve public support, roadmap clarity, or issue-report quality.

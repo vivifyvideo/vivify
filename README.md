@@ -1,73 +1,51 @@
 <p align="center">
   <a href="https://vivify.video">
-    <img src="assets/logo.png" alt="Vivify logo" width="96" />
+    <img src="assets/logo.png" alt="Vivify logo" width="112" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://vivify.video">
-    <img src="assets/brand-logo.png" alt="Vivify" width="420" />
-  </a>
-</p>
+# Vivify
 
-<h1 align="center">Vivify</h1>
+Official public repository for [vivify.video](https://vivify.video). Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
 
-Official public repository for [Vivify.video](https://vivify.video), an AI creative workspace for turning prompts and references into images, controlled edits, and short videos.
+This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-This repository is used for public documentation, bug reports, feature requests, roadmap notes, and community discussion. The core Vivify product is not open-source.
+## Product Focus
 
-## What This Repository Is For
+- Creators turning still images into short AI videos
+- Marketing teams testing prompt, model, and reference-image variations
+- Designers who need image generation as source material for video
+- Teams comparing model capability, duration, quality, audio support, and credit cost before spending credits
 
-- Product questions that are useful to answer in public
-- Bug reports with reproducible steps
-- Feature requests and workflow suggestions
-- Public roadmap notes and release updates
-- Documentation improvements for common creator workflows
+## Main Workflows
 
-## What This Repository Does Not Contain
+- Create image-to-video, text-to-video, and supported video-edit generations from one workspace.
+- Generate or refine source images before continuing into video creation.
+- Use model-aware controls for Gemini Omni Flash, Seedance 2, GPT Image 2, and related creative models.
+- Review cost drivers such as duration, resolution, reference limits, and credit usage near the action.
+- Use prompt-backed examples and showcases as starting points for repeatable creative work.
 
-- Vivify application source code
-- Provider keys, infrastructure configuration, or deployment scripts
-- Private customer data or support records
-- Internal pricing, abuse, moderation, or billing logic
+## What To Open Here
 
-Please do not post secrets, private files, payment details, personal data, or generated assets that you do not have permission to share.
+- Generator flow problems around uploads, references, model selection, credit display, or history
+- Model-comparison clarity issues for duration, audio, quality, or supported inputs
+- Prompt-template or showcase feedback that helps creators start faster
+- Pricing, billing, credit-pack, or account-flow issues from the public product
 
-## Links
+## Repository Boundary
+
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
+
+## Official Links
 
 - Website: [vivify.video](https://vivify.video)
-- App: [vivify.video](https://vivify.video)
 - Roadmap: [ROADMAP.md](ROADMAP.md)
-- Changelog: [CHANGELOG.md](CHANGELOG.md)
-- Security: [SECURITY.md](SECURITY.md)
 - Support: [SUPPORT.md](SUPPORT.md)
+- Security: [SECURITY.md](SECURITY.md)
 
-## Report a Bug
+## Support
 
-Open a bug report with:
-
-- The page or workflow where the issue happened
-- The prompt, model, or input type involved when relevant
-- What you expected to happen
-- What actually happened
-- Screenshots or short screen recordings if they help
-- Browser, device, and approximate time of the issue
-
-Do not include API keys, payment information, private links, or personal data in public issues.
-
-## Request a Feature
-
-Feature requests are most useful when they describe a real workflow:
-
-- What you are trying to create
-- Where the current product slows you down
-- What a good outcome would look like
-- Whether this affects image generation, editing, video generation, assets, billing, or account workflows
-
-## Public Repository Policy
-
-Vivify is a hosted SaaS product. This repository exists to make public feedback and product communication easier. It is not a source-code distribution channel and does not grant a license to copy, self-host, reverse engineer, or redistribute the Vivify product.
-
-## Maintainers
-
-This repository is maintained by the Vivify team. Public issues and discussions are reviewed based on impact, clarity, and relevance to the product.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@vivify.video.

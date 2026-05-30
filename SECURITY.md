@@ -1,29 +1,23 @@
 # Security Policy
 
-## Reporting Security Issues
+## Reporting A Vulnerability
 
-Please do not report security vulnerabilities in public issues.
+Please do not open public issues for security reports. Email support@vivify.video with a concise description, affected URL, reproduction steps, and any evidence that helps us verify impact.
 
-If you believe you found a security issue, email:
+## In Scope
 
-```text
-support@vivify.video
-```
+- Generator flow problems around uploads, references, model selection, credit display, or history
+- Model-comparison clarity issues for duration, audio, quality, or supported inputs
+- Prompt-template or showcase feedback that helps creators start faster
+- Public website behavior that could expose user data, account state, payment state, uploaded content, or private workflow information
 
-Include:
+## Out Of Scope
 
-- A clear description of the issue
-- Steps to reproduce
-- Affected URLs or workflows
-- The impact you believe the issue may have
-- Any relevant screenshots or logs with secrets removed
+- Social engineering, spam, or automated high-volume testing
+- Reports that require destructive testing against production systems
+- Generic scanner output without a practical impact explanation
+- Private production source code, deployment secrets, or provider credentials, which are not published in this repository
 
-Do not include private user data, payment information, API keys, passwords, session tokens, or other secrets in public GitHub content.
+## Public Disclosure
 
-## Public Issues
-
-Use public issues for product bugs, documentation problems, and feature requests. Security-sensitive reports should go through email first.
-
-## Scope
-
-Vivify is a hosted SaaS product. This public repository does not contain the production source code, deployment configuration, or provider credentials.
+Give us time to investigate and address confirmed issues before publishing details. We may ask for clarification or a narrower reproduction if the report includes sensitive data.

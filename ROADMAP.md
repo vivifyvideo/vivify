@@ -1,34 +1,31 @@
-# Roadmap
+# Vivify Public Roadmap
 
-This roadmap is a public summary of product directions we are evaluating or actively improving. It is not a promise of delivery dates, pricing, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [vivify.video](https://vivify.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
-- More reliable image and video generation workflows
-- Better controls for reference images, edits, and prompt iteration
-- Clearer model guidance for creator use cases
-- Faster recovery from failed or delayed generation jobs
-- Improved account, credit, and billing transparency
+- Keep image-to-video as the fastest first path while preserving text-to-video and video-edit routes.
+- Make model capabilities, reference limits, and credit costs easier to compare before generation.
+- Improve prompt-backed examples that move users from showcase browsing into creation.
+- Keep account history, billing, and credit-pack flows understandable for repeat generation.
 
-## Under Consideration
+## Next
 
-- Saved generation presets for repeatable workflows
-- Better history filtering and asset organization
-- More public examples for image editing and short video creation
-- Workflow guides for product visuals, social assets, and creative testing
-- Additional export and download conveniences
+- Expand guidance for reference-image edits that become video source material.
+- Improve failed-generation explanations and retry paths without hiding provider limits.
+- Add clearer examples for product, social, cinematic, and motion-design use cases.
+- Refine localization for users comparing image and video workflows in English and Chinese.
 
-## Recently Improved
+## Later
 
-See [CHANGELOG.md](CHANGELOG.md) for public updates.
+- Expose more structured workflow recipes for recurring creative tasks.
+- Evaluate deeper media organization for teams producing many variations.
+- Improve cross-model education when new provider capabilities become available.
+- Document public examples that show practical tradeoffs instead of generic model hype.
 
-## How To Suggest Roadmap Items
+## Product Principles
 
-Open a feature request and describe the workflow rather than only naming a feature. Useful requests explain:
-
-- Who needs the workflow
-- What they are trying to make
-- What currently takes too long or fails
-- What output or control would solve the problem
-
-Public feedback helps prioritize work, but private implementation details and provider constraints may limit what we can share.
+- Video generation remains the primary product story.
+- Image generation is described as part of the creative pipeline, not a separate generic hub.
+- Credit and capability claims should stay tied to the live product state.
+- This repository is for public product feedback, not private production source code.
