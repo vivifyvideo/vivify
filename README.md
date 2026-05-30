@@ -10,6 +10,16 @@ Official public repository for [vivify.video](https://vivify.video). Vivify is a
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+[Watch the Vivify demo video](https://youtu.be/T1zlylN_sMw)
+
+![Vivify homepage](assets/screenshots/homepage.png)
+
+| AI video generator | AI image generator |
+| --- | --- |
+| ![Vivify AI video generator](assets/screenshots/ai-video-generator.png) | ![Vivify AI image generator](assets/screenshots/ai-image-generator.png) |
+
 ## Product Focus
 
 - Creators turning still images into short AI videos
