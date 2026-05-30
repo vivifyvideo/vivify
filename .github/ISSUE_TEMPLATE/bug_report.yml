@@ -1,0 +1,59 @@
+name: Bug report
+description: Report a reproducible problem with Vivify
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Do not include secrets, payment details, private files, or personal data.
+  - type: input
+    id: page
+    attributes:
+      label: Page or workflow
+      description: Where did the problem happen?
+      placeholder: "Example: image generator, video generator, account credits"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do before the issue happened?
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: What happened instead?
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: "Example: Chrome on macOS, Safari on iPhone"
+  - type: input
+    id: time
+    attributes:
+      label: Approximate time
+      description: Include your timezone if useful.
+      placeholder: "Example: 2026-05-30 14:30 UTC"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Screenshots or short recordings can help, but remove private information first.

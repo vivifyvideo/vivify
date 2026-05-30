@@ -1,0 +1,48 @@
+name: Feature request
+description: Suggest a product or workflow improvement
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The best feature requests describe the creative workflow and the problem to solve.
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What are you trying to create or improve?
+      placeholder: "Example: creating product visuals from reference images for social ads"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Current problem
+      description: What is difficult, slow, unclear, or missing today?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What would a good solution let you do?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options:
+        - Image generation
+        - Image editing
+        - Video generation
+        - Prompt workflow
+        - Asset history
+        - Credits and billing
+        - Account and login
+        - Documentation
+        - Other
+    validations:
+      required: true
