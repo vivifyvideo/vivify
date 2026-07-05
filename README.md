@@ -6,7 +6,7 @@
 
 # Vivify
 
-Official public repository for [vivify.video](https://vivify.video). Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
+Official public repository for [Vivify AI video generator](https://vivify.video). Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -49,13 +49,21 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [vivify.video](https://vivify.video)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [Vivify AI video generator](https://vivify.video): Create AI videos and images from prompts, images, videos, and references.
+- [Vivify AI video generator page](https://vivify.video/ai-video-generator): Open the focused AI video generation workflow.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@vivify.video.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Demo video | [Vivify AI video demo](https://youtu.be/T1zlylN_sMw) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |
