@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Vivify. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [vivify.video](https://vivify.video).
+Thanks for helping improve Vivify. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [Vivify AI video generator](https://vivify.video).
 
 ## Good Contributions
 

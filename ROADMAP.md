@@ -1,6 +1,6 @@
 # Vivify Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [vivify.video](https://vivify.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [Vivify AI video generator](https://vivify.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 

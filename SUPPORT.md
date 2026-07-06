@@ -1,6 +1,6 @@
 # Support
 
-This repository supports public product feedback for [Vivify](https://vivify.video). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This repository supports public product feedback for [Vivify AI video generator](https://vivify.video). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 
