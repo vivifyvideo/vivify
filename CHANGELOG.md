@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-12
+
+- Clarified Vivify's image, video, and realtime face-swap capabilities across the public repository.
+- Improved contribution, support, security-reporting, issue, and pull-request guidance.
+- Removed repository-maintenance notes from the product-facing README.
+
 ## 2026-05-30
 
 - Reworked the public repository documentation around Vivify's actual product scope.

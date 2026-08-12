@@ -6,9 +6,9 @@
 
 # Vivify
 
-Official public repository for [Vivify AI video generator](https://vivify.video). Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
+[Vivify](https://vivify.video) is an AI creative workspace for image generation and editing, text-to-video, image-to-video, and realtime face swap.
 
-This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
+This is Vivify's official public repository for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live product.
 
 ## Product Preview
 
@@ -22,25 +22,24 @@ This repository is the public home for product feedback, issue reports, roadmap 
 
 ## Product Focus
 
-- Creators turning still images into short AI videos
-- Marketing teams testing prompt, model, and reference-image variations
-- Designers who need image generation as source material for video
-- Teams comparing model capability, duration, quality, audio support, and credit cost before spending credits
+- Generate images from prompts and references.
+- Edit and refine images for creative production.
+- Create videos from text prompts or source images.
+- Transform a live camera feed with realtime face swap.
 
 ## Main Workflows
 
-- Create image-to-video, text-to-video, and supported video-edit generations from one workspace.
-- Generate or refine source images before continuing into video creation.
-- Use model-aware controls for Gemini Omni Flash, Seedance 2, GPT Image 2, and related creative models.
-- Review cost drivers such as duration, resolution, reference limits, and credit usage near the action.
-- Use prompt-backed examples and showcases as starting points for repeatable creative work.
+- Move from image generation and editing into video creation without changing tools.
+- Create text-to-video and image-to-video generations with workflow-specific controls.
+- Use realtime face swap for live creative camera experiences.
+- Compare supported model capabilities, reference limits, duration, quality, and credit cost before generating.
 
 ## What To Open Here
 
-- Generator flow problems around uploads, references, model selection, credit display, or history
-- Model-comparison clarity issues for duration, audio, quality, or supported inputs
-- Prompt-template or showcase feedback that helps creators start faster
-- Pricing, billing, credit-pack, or account-flow issues from the public product
+- Reproducible problems in image generation, image editing, video generation, or realtime face swap
+- Workflow clarity issues involving uploads, references, model selection, credit display, or history
+- Product ideas, prompt-workflow feedback, and documentation improvements
+- Pricing, billing, credit-pack, account, or login problems from the public product
 
 ## Repository Boundary
 
@@ -51,13 +50,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 
 ## Product Feature Links
 
-- [Vivify AI video generator](https://vivify.video): Create AI videos and images from prompts, images, videos, and references.
-- [Vivify AI video generator page](https://vivify.video/ai-video-generator): Open the focused AI video generation workflow.
-
-## Recent Updates
-
-- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
-- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+- [AI image generator](https://vivify.video/ai-image-generator)
+- [AI image editor](https://vivify.video/ai-image-editor)
+- [AI video generator](https://vivify.video/ai-video-generator)
+- [Realtime face swap](https://vivify.video/realtime-face-swap)
 
 ## Repository Links
 

@@ -1,13 +1,13 @@
 # Contributing
 
-Thanks for helping improve Vivify. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [Vivify AI video generator](https://vivify.video).
+Thanks for helping improve [Vivify](https://vivify.video), an AI creative workspace for image generation and editing, text-to-video, image-to-video, and realtime face swap. This official public repository is for product feedback, documentation, roadmap discussion, and issue tracking.
 
 ## Good Contributions
 
-- Generator flow problems around uploads, references, model selection, credit display, or history
-- Model-comparison clarity issues for duration, audio, quality, or supported inputs
-- Prompt-template or showcase feedback that helps creators start faster
-- Pricing, billing, credit-pack, or account-flow issues from the public product
+- Reproducible problems in image generation, image editing, video generation, or realtime face swap
+- Workflow clarity issues involving uploads, references, model selection, credit display, or history
+- Product ideas, prompt-workflow feedback, and documentation improvements
+- Pricing, billing, credit-pack, account, or login problems from the public product
 
 ## How To File Feedback
 
@@ -16,13 +16,13 @@ Thanks for helping improve Vivify. This repository is focused on public product 
 - Include steps to reproduce, expected behavior, actual behavior, and any safe sample input.
 - Keep screenshots and recordings free of private account, payment, uploaded-media, or personal data.
 
-## Product Boundaries
+## Repository Boundaries
 
-- Video generation remains the primary product story.
-- Image generation is described as part of the creative pipeline, not a separate generic hub.
-- Credit and capability claims should stay tied to the live product state.
+- Keep descriptions of image generation, image editing, video generation, and realtime face swap accurate to the live product.
+- Keep credit, model, and capability claims tied to the current product state.
 - This repository is for public product feedback, not private production source code.
+- Send account-specific, billing, privacy, abuse, or security-sensitive matters to [support@vivify.video](mailto:support@vivify.video) instead of posting them publicly.
 
 ## Pull Requests
 
-This repository does not accept pull requests for the private production application. Documentation-only pull requests may be considered when they improve public support, roadmap clarity, or issue-report quality.
+This repository does not accept pull requests for the private production application. Documentation-only pull requests may be considered when they improve public support, roadmap clarity, or issue-report quality. Use the pull request template and explain the user-facing reason for each change.

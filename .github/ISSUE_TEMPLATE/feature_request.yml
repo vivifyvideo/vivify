@@ -38,6 +38,7 @@ body:
         - Image generation
         - Image editing
         - Video generation
+        - Realtime face swap
         - Prompt workflow
         - Asset history
         - Credits and billing

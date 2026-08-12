@@ -1,17 +1,17 @@
 # Support
 
-This repository supports public product feedback for [Vivify AI video generator](https://vivify.video). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This official repository supports public product feedback for [Vivify](https://vivify.video), including image generation, image editing, text-to-video, image-to-video, and realtime face swap. Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 
-- Generator flow problems around uploads, references, model selection, credit display, or history
-- Model-comparison clarity issues for duration, audio, quality, or supported inputs
-- Prompt-template or showcase feedback that helps creators start faster
-- Pricing, billing, credit-pack, or account-flow issues from the public product
+- Reproducible problems in image generation, image editing, video generation, or realtime face swap
+- Workflow clarity issues involving uploads, references, model selection, credit display, or history
+- Product ideas, prompt-workflow feedback, and documentation improvements
+- General pricing, credit-pack, account, or login problems that do not expose private information
 
 ## Private Support
 
-Email support@vivify.video for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
+Email [support@vivify.video](mailto:support@vivify.video) for account-specific help, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
 
 ## Useful Details To Include
 

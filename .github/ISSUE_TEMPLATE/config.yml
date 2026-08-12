@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: Private account, billing, or security support
     url: https://vivify.video
-    about: Do not post private account, billing, or security information in public GitHub issues.
+    about: Email support@vivify.video. Do not post private account, billing, or security information in public GitHub issues.
