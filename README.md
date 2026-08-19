@@ -55,6 +55,10 @@ This is Vivify's official public repository for product feedback, issue reports,
 - [AI video generator](https://vivify.video/ai-video-generator)
 - [Realtime face swap](https://vivify.video/realtime-face-swap)
 
+## Generation Report Checklist
+
+Name the image, video, editing, or realtime face-swap workflow; include the selected model, input type, visible options, and expected output. Use redacted or synthetic media and keep account, credit, and provider details in private support.
+
 ## Repository Links
 
 | Destination | Link |
