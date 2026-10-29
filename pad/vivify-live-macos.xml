@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-authored</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description for software directories.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Nano Agent LLC</Company_Name>
+    <Company_WebSite_URL>https://vivify.video/realtime-face-swap</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Chris</Contact_First_Name>
+      <Contact_Last_Name>Fox</Contact_Last_Name>
+      <Contact_Email>support@vivify.video</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email>support@vivify.video</Support_Email>
+      <General_Email>support@vivify.video</General_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Vivify Live</Program_Name>
+    <Program_Version>0.2.17</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>26</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Cost_Other>Usage-based credits</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>MacOSX</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Category_Class>Audio and Video::Video/TV</Program_Category_Class>
+    <Program_System_Requirements>macOS 13+ Apple Silicon; internet; Vivify account for AI processing.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>134999738</File_Size_Bytes>
+      <File_Size_K>131835</File_Size_K>
+      <File_Size_MB>128.75</File_Size_MB>
+    </File_Info>
+    <Expire_Info><Has_Expire_Info>N</Has_Expire_Info></Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Vivify Live, Vivify FaceSwap, realtime face swap, live try-on, live restyle, AI video</Keywords>
+      <Char_Desc_45>Realtime face swap desktop for Vivify.</Char_Desc_45>
+      <Char_Desc_80>Vivify Live: realtime face swap, try-on and restyle desktop client.</Char_Desc_80>
+      <Char_Desc_250>Vivify Live is the official desktop client for Vivify realtime face swap. Preview live face swap, live try-on, and live restyle with camera input and references. Free installer; cloud AI needs a Vivify account, internet, and credits. Developer: Vi...</Char_Desc_250>
+      <Char_Desc_450>Vivify Live (also listed as Vivify FaceSwap) is the official desktop client for Vivify realtime face swap, live try-on, and live restyle. Free installer from Nano Agent LLC; cloud AI requires a Vivify account, internet, and credits.</Char_Desc_450>
+      <Char_Desc_2000>Vivify Live (alternate listing name: Vivify FaceSwap) is the official desktop client for Vivify (vivify.video), published by Nano Agent LLC. It complements the online realtime face swap studio for live face swap, live try-on, and live restyle with camera input and visual references. Windows and macOS installers are free. Cloud AI requires a Vivify account, internet, and credits. Product pages: https://vivify.video/realtime-face-swap (EN) and https://vivify.video/zh/realtime-face-swap (ZH). Version 0.2.17 (2026-10-26). Publisher: Nano Agent LLC · Chris Fox · support@vivify.video · https://vivify.video/realtime-face-swap</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://vivify.video/realtime-face-swap</Application_Info_URL>
+      <Application_Order_URL>https://vivify.video/realtime-face-swap</Application_Order_URL>
+      <Application_Screenshot_URL>https://vivify.video/videos/realtime-face-swap/posters/delulustream-wonni.webp</Application_Screenshot_URL>
+      <Application_Icon_URL>https://vivify.video/apple-touch-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/vivifyvideo/vivify/main/pad/vivify-live-macos.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://r2.vivify.video/downloads/client/stable/macos-arm64/Vivify-Live-0.2.17-arm64.dmg</Primary_Download_URL>
+      <Secondary_Download_URL>https://vivify.video/api/client/download/macos</Secondary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Distribute the unchanged Vivify Live installer with intact signature and this PAD. Alternate public name Vivify FaceSwap may be used if Vivify Live conflicts. Do not alter binaries without permission from Nano Agent LLC.</Distribution_Permissions>
+    <Eula>https://vivify.video/realtime-face-swap</Eula>
+  </Permissions>
+</XML_DIZ_INFO>
